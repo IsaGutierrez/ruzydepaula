@@ -1,0 +1,20 @@
+@import '../../../styles.scss';
+
+.my-navbar {
+    padding: 10px 25px;
+    font-size: 18px;
+    background-color: white !important;
+}
+
+.rydp-logo {
+    width: 60px;
+}
+
+.logo-name {
+    font-size: 28px;
+    padding: 0 !important;
+}
+
+a:hover {
+    color: $rydp-red !important;
+}
